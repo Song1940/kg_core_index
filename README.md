@@ -1,7 +1,7 @@
 # kg_index
 
 # kgcore_index
-This is the implementation of kg-core index, which is described in the following papaer submitted KBS 2025:
+This is the implementation of kg-core index, which is described in the following papaer submitted Knowledge-Based Systems:
 - Efficient Locality-based Indexing for Cohesive Subgraphs Discovery in Hypergraphs
 
 ## This repository contains the index construction algorithms and query processing algorithms for each index.
